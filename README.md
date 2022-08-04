@@ -14,4 +14,5 @@ Application screenshot ![here](/challenge1_screenshot.png?raw=true "here")
 
 # Links
 The deployed application can be viewed here: https://kwalexander.github.io/challenge1/ 
+
 The application repository can be viewed here: https://github.com/kwalexander/challenge1 
